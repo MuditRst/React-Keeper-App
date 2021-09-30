@@ -10,4 +10,4 @@ A simple Keeper App made using React and MaterialUI.
 
 >With a note:
 
-![without_note](https://user-images.githubusercontent.com/52821308/135545889-abf1b629-89fa-49c4-9ba1-57ecd6aa367a.PNG)
+![with_note](https://user-images.githubusercontent.com/52821308/135545968-48a1683d-6c25-449c-8f7a-c824edd3080f.PNG)
