@@ -2,7 +2,7 @@
 
 A simple Keeper App made using React and MaterialUI.
 
-When you click on "Take a note..." it expands and reveals the title and Note content area.
+When you click on "Take a note...." it expands and reveals the title and Note content area.
 
 # App Images
 
